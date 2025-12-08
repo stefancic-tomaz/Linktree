@@ -12,4 +12,5 @@ Po izpolnitvi projekta bi rad dosegel naslednje:
         - vizualno privlačna spletna stran,
         - viši nivo HTML in CSS kodiranja
 ## Posodobitve
+        - 2.) 8.12.2025 17:30
         - 1.) 7.12.2025 20:00
