@@ -62,7 +62,7 @@ a{
 	border: 1px solid black;
 	border-radius: 100px;
 	margin: 0 auto;
-	background-image: url("../slike/profilna.png");
+	background-image: url("slike/profilna.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -73,19 +73,19 @@ a{
 #logoGithub{
 	height:30px;
 	width:30px;
-	background-image: url('/slike/Github.png');
+	background-image: url("slike/Github.png");
 	background-position: -12px 0px;
 }
 #logoX{
 	height:30px;
 	width:30px;
-	background-image: url('slike/x.png');
+	background-image: url("slike/x.png");
 }
 #logoYT{
 	height:45px;
 	width:45px;
 	margin-left: 5px;
-	background-image: url("/slike/yt.png");
+	background-image: url("slike/yt.png");
 }
 #logoIG{
 	height:30px;
@@ -109,3 +109,4 @@ h1{
 	font-size:50px;
 
 }
+
